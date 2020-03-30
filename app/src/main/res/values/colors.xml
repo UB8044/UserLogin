@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF0000FF</color>
+    <color name="colorPrimaryDark">#178000</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="label">#FFFF0000</color>
+    <color name="judul">#2F4F4F</color>
+    <color name="txt">#373A3C</color>
+    <color name="btn">#FFFFFF00</color>
+    <color name="background">#FF00FF00</color>
+    <color name="menu">#FF00FFFF</color>
+    <color name="menu2">#FFFFFFFF</color>
+</resources>
